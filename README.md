@@ -8,6 +8,7 @@
 
 ## 安装下载
 
+- 下载地址;https://github.com/wmzwq/Fast-ionic/releases
 
 ## 快速使用
 
