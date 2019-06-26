@@ -1,2 +1,3 @@
-# Fast-ionic
+﻿# Fast-ionic
 一个简单的ionic入门APP
+hello
